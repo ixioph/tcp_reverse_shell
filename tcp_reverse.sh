@@ -1,7 +1,7 @@
 #!/bin/bash
 #tcp_reverse.sh
 #Author: Willie Cooley
-#Description: Takes script takes user input on IP, port #, and an
+#Description: script takes user input on IP, port #, and an
 #     exit command, and generates two python scripts
 #     client.py and server.py for creating a reverse tcp shell.
 
